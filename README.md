@@ -13,4 +13,4 @@ terminal code:
 node --experimental-modules server.mjs
 ```
 
-> Without the mentioned requirements you won't be able to run the program
+> Warning: Without the mentioned requirements you won't be able to run the program
